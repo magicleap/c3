@@ -1,5 +1,4 @@
-
-##CAD Bridge
+#CAD Bridge
 
 This Magic Leap sample demonstrates how to use a Magic Leap’s Desktop Companion App (DCA) plug-in to visualize models developed in Autodesk Maya. This can improve workflows for designers and script developers. This python script sample code lets users view 3D CAD models from the Gallery app on a Magic Leap device.
 
