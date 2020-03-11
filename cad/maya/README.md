@@ -8,6 +8,8 @@ Please visit [Magic Leap Developer Portal](https://developer.magicleap.io/en-us/
 
 
 #### License
+https://github.com/magicleap/c3/blob/master/cad/maya/LICENSE.TXT
+
 **Copyright (c) 2019 Magic Leap, Inc. All Rights Reserved.**
 Use of this file is governed by the Developer Agreement, located
 here: https://id.magicleap.com/terms/developer
