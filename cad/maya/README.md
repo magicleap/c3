@@ -7,9 +7,8 @@ Please visit [Magic Leap Developer Portal](https://developer.magicleap.io/en-us/
 [https://developer.magicleap.io/en-us/learn/guides/dca-cad-sample](https://developer.magicleap.io/en-us/learn/guides/dca-cad-sample)
 
 
-#### License
-https://github.com/magicleap/c3/blob/master/cad/maya/LICENSE.TXT
+#### License: https://github.com/magicleap/c3/blob/master/cad/maya/LICENSE.md
 
-**Copyright (c) 2019 Magic Leap, Inc. All Rights Reserved.**
+**Copyright (c) 2019-2020 Magic Leap, Inc. All Rights Reserved.**
 Use of this file is governed by the Developer Agreement, located
 here: https://id.magicleap.com/terms/developer
