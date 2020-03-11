@@ -2,7 +2,7 @@
 #  ---------------------------------------------------------------------
 #  %COPYRIGHT_BEGIN%
 #
-#  Copyright (c) 2019 Magic Leap, Inc. All Rights Reserved.
+#  Copyright (c) 2019-2020 Magic Leap, Inc. All Rights Reserved.
 #  Use of this file is governed by the Developer Agreement, located
 #  here: https://id.magicleap.com/terms/developer
 #
